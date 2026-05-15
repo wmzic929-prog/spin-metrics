@@ -1,0 +1,32 @@
+/* crimson-white — 酒紅 × 純白 | 老虎機強對比 */
+:root {
+  --clr-accent:         #dc2626;
+  --clr-accent-dark:    #b91c1c;
+  --clr-accent-light:   #ef4444;
+  --clr-accent-glow:    rgba(220,38,38,.30);
+  --clr-accent-faint:   rgba(220,38,38,.08);
+
+  --clr-bg:             #ffffff;
+  --clr-bg-alt:         #fff1f2;
+  --clr-bg-dark:        #1c0000;
+  --clr-bg-dark2:       #3b0000;
+
+  --clr-text:           #1c0000;
+  --clr-text-muted:     #78716c;
+  --clr-text-inv:       #fff1f2;
+  --clr-text-inv-muted: rgba(255,241,242,.65);
+
+  --clr-border:         #fecaca;
+  --clr-border-dark:    rgba(220,38,38,.20);
+
+  --clr-tag-1:          #dc2626;
+  --clr-tag-2:          #d97706;
+  --clr-tag-3:          #7c3aed;
+  --clr-tag-4:          #0284c7;
+  --clr-tag-5:          #059669;
+
+  --clr-hero-overlay:   linear-gradient(0deg, rgba(28,0,0,.97) 0%, rgba(28,0,0,.58) 55%, rgba(28,0,0,.18) 100%);
+  --clr-shadow:         0 1px 4px rgba(220,38,38,.08), 0 1px 2px rgba(0,0,0,.06);
+  --clr-shadow-md:      0 4px 16px rgba(220,38,38,.18), 0 2px 4px rgba(0,0,0,.06);
+  --clr-shadow-accent:  0 6px 24px rgba(220,38,38,.38);
+}
