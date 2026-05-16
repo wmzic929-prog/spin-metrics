@@ -1,52 +1,456 @@
-[
-  {"id":1,"keyword":"老虎機RTP是什麼？完整解釋","category":"RTP機制","angle":"疑問句型","image_theme":"slot machine RTP return to player explanation","status":"available","writing_style":"技術評測師語氣，含RTP計算範例，1000字"},
-  {"id":2,"keyword":"為什麼高RTP老虎機不保證贏錢？","category":"RTP機制","angle":"疑問句型","image_theme":"high RTP slot machine not guarantee win","status":"available","writing_style":"數學解釋，批判性，950字"},
-  {"id":3,"keyword":"如何查找老虎機的官方RTP數據？","category":"RTP機制","angle":"疑問句型","image_theme":"slot machine official RTP data lookup method","status":"available","writing_style":"實用指南，含查閱方法，950字"},
-  {"id":4,"keyword":"老虎機波動性（Volatility）是什麼意思？","category":"波動性","angle":"疑問句型","image_theme":"slot volatility high low variance explanation","status":"available","writing_style":"概念解釋，含高低波動比較，1000字"},
-  {"id":5,"keyword":"高波動 vs 低波動老虎機：哪個更適合我？","category":"波動性","angle":"疑問句型","image_theme":"high low volatility slot machine which better","status":"available","writing_style":"比較分析，含玩家類型建議，1050字"},
-  {"id":6,"keyword":"老虎機Bonus Buy功能值得買嗎？","category":"Bonus機制","angle":"疑問句型","image_theme":"slot bonus buy feature worth it analysis","status":"available","writing_style":"數學分析，含期望值計算，1000字"},
-  {"id":7,"keyword":"Free Spin觸發機率是多少？","category":"Bonus機制","angle":"疑問句型","image_theme":"slot free spin trigger probability statistics","status":"available","writing_style":"機率分析，含廠商數據比較，1000字"},
-  {"id":8,"keyword":"Scatter符號如何觸發獎勵？","category":"Bonus機制","angle":"疑問句型","image_theme":"slot scatter symbol bonus trigger mechanism","status":"available","writing_style":"機制解釋，含觸發條件說明，950字"},
-  {"id":9,"keyword":"Pragmatic Play老虎機RTP準確嗎？","category":"廠商比較","angle":"疑問句型","image_theme":"Pragmatic Play slot RTP accuracy audit","status":"available","writing_style":"廠商評測，審計角度，1050字"},
-  {"id":10,"keyword":"NetEnt和Pragmatic Play老虎機有什麼分別？","category":"廠商比較","angle":"疑問句型","image_theme":"NetEnt vs Pragmatic Play slot comparison","status":"available","writing_style":"廠商對比分析，含代表作品，1000字"},
-  {"id":11,"keyword":"老虎機RNG是什麼？能被預測嗎？","category":"RTP機制","angle":"疑問句型","image_theme":"slot RNG random number generator predictable","status":"available","writing_style":"技術機制解釋，引用認證標準，1000字"},
-  {"id":12,"keyword":"為什麼老虎機在Bonus後容易出現乾旱期？","category":"波動性","angle":"疑問句型","image_theme":"slot machine bonus drought session variance","status":"available","writing_style":"統計分析，含方差說明，950字"},
-  {"id":13,"keyword":"老虎機bankroll管理怎麼做？","category":"策略","angle":"疑問句型","image_theme":"slot machine bankroll management strategy","status":"available","writing_style":"實用策略，含資金分配建議，1050字"},
-  {"id":14,"keyword":"何時應該換台老虎機？","category":"策略","angle":"疑問句型","image_theme":"when to switch slot machine strategy","status":"available","writing_style":"策略分析，結合數學，1000字"},
-  {"id":15,"keyword":"老虎機最大獎金倍數（Max Win）有什麼意義？","category":"RTP機制","angle":"疑問句型","image_theme":"slot max win multiplier significance","status":"available","writing_style":"指標解讀，含計算，950字"},
-  {"id":16,"keyword":"老虎機免費旋轉和付費旋轉RTP一樣嗎？","category":"RTP機制","angle":"疑問句型","image_theme":"slot free spins bonus RTP same as base game","status":"available","writing_style":"技術比較，含數據，950字"},
-  {"id":17,"keyword":"如何計算一場遊戲的理論損失？","category":"RTP機制","angle":"疑問句型","image_theme":"slot theoretical loss calculation session","status":"available","writing_style":"數學計算教學，含公式，1000字"},
-  {"id":18,"keyword":"老虎機Hold功能是什麼？","category":"Bonus機制","angle":"疑問句型","image_theme":"slot hold feature mechanism explanation","status":"available","writing_style":"功能解析，950字"},
-  {"id":19,"keyword":"廠商認證標準如何保證老虎機公正性？","category":"廠商比較","angle":"疑問句型","image_theme":"slot certification standard GLI iTech Labs fairness","status":"available","writing_style":"認證機構介紹，審計角度，1050字"},
-  {"id":20,"keyword":"老虎機Jackpot的觸發機率是多少？","category":"RTP機制","angle":"疑問句型","image_theme":"progressive jackpot trigger probability statistics","status":"available","writing_style":"機率分析，含Jackpot種類說明，1000字"},
-  {"id":21,"keyword":"2025年最高RTP老虎機排名Top 20","category":"RTP機制","angle":"數據比較型","image_theme":"highest RTP slot machines ranking 2025","status":"available","writing_style":"排名報告，含RTP數據表，1100字"},
-  {"id":22,"keyword":"Pragmatic Play vs NetEnt vs Microgaming RTP比較","category":"廠商比較","angle":"數據比較型","image_theme":"slot provider RTP comparison Pragmatic NetEnt Microgaming","status":"available","writing_style":"三方廠商數據對比，含表格，1050字"},
-  {"id":23,"keyword":"高波動 vs 低波動老虎機長期回報數據","category":"波動性","angle":"數據比較型","image_theme":"high low volatility slot long term return data","status":"available","writing_style":"模擬數據報告，1050字"},
-  {"id":24,"keyword":"老虎機Bonus Buy vs 自然觸發：期望值比較","category":"Bonus機制","angle":"數據比較型","image_theme":"slot bonus buy natural trigger EV comparison","status":"available","writing_style":"量化比較，含計算，1050字"},
-  {"id":25,"keyword":"最受香港玩家歡迎的老虎機廠商排名","category":"廠商比較","angle":"數據比較型","image_theme":"hong kong popular slot provider ranking","status":"available","writing_style":"市場數據報告，1000字"},
-  {"id":26,"keyword":"老虎機免費試玩 vs 真錢：RTP有差嗎？","category":"RTP機制","angle":"數據比較型","image_theme":"slot demo vs real money RTP comparison","status":"available","writing_style":"技術比較，含廠商政策，1000字"},
-  {"id":27,"keyword":"不同下注金額對老虎機RTP的影響","category":"策略","angle":"數據比較型","image_theme":"slot bet size effect on RTP volatility","status":"available","writing_style":"數據分析，含廠商規則，1000字"},
-  {"id":28,"keyword":"Megaways機制的RTP和波動性分析","category":"Bonus機制","angle":"數據比較型","image_theme":"Megaways slot mechanism RTP volatility analysis","status":"available","writing_style":"機制深度分析，1050字"},
-  {"id":29,"keyword":"老虎機最佳下注策略：各廠商建議比較","category":"策略","angle":"數據比較型","image_theme":"slot optimal bet strategy by provider comparison","status":"available","writing_style":"策略對比表格，1000字"},
-  {"id":30,"keyword":"老虎機平台手續費對實際RTP的影響","category":"RTP機制","angle":"數據比較型","image_theme":"slot platform fee effect actual RTP calculation","status":"available","writing_style":"量化分析，1000字"},
-  {"id":31,"keyword":"老虎機RTP完整新手教學指南","category":"RTP機制","angle":"教學攻略型","image_theme":"slot RTP complete beginner guide tutorial","status":"available","writing_style":"從零開始，含計算範例，1100字"},
-  {"id":32,"keyword":"選老虎機五個必看指標","category":"RTP機制","angle":"教學攻略型","image_theme":"slot selection five key indicators checklist","status":"available","writing_style":"清單格式，實用指南，1000字"},
-  {"id":33,"keyword":"老虎機資金管理完整攻略","category":"策略","angle":"教學攻略型","image_theme":"slot bankroll management complete guide","status":"available","writing_style":"系統性教學，1050字"},
-  {"id":34,"keyword":"如何利用免費試玩最大化學習效果","category":"策略","angle":"教學攻略型","image_theme":"slot demo mode learning maximize tips","status":"available","writing_style":"實用策略，1000字"},
-  {"id":35,"keyword":"老虎機術語完整詞彙表","category":"RTP機制","angle":"教學攻略型","image_theme":"slot machine terminology glossary complete","status":"available","writing_style":"參考指南格式，1050字"},
-  {"id":36,"keyword":"如何閱讀老虎機遊戲規則說明頁","category":"RTP機制","angle":"教學攻略型","image_theme":"slot paytable rules reading guide","status":"available","writing_style":"步驟教學，950字"},
-  {"id":37,"keyword":"Bonus Round機制分類與比較教學","category":"Bonus機制","angle":"教學攻略型","image_theme":"slot bonus round types classification guide","status":"available","writing_style":"分類教學，含範例，1000字"},
-  {"id":38,"keyword":"老虎機負責任遊戲指南","category":"策略","angle":"教學攻略型","image_theme":"responsible gambling slot machine guide","status":"available","writing_style":"教育性，含自我評估，900字"},
-  {"id":39,"keyword":"如何識別優質老虎機平台的五個標準","category":"廠商比較","angle":"教學攻略型","image_theme":"quality slot platform identification criteria","status":"available","writing_style":"評估框架，1000字"},
-  {"id":40,"keyword":"老虎機波動性計算方法：從數據到判斷","category":"波動性","angle":"教學攻略型","image_theme":"slot volatility calculation method data","status":"available","writing_style":"技術教學，含計算，1050字"},
-  {"id":41,"keyword":"Pragmatic Play 2025年新機評測","category":"廠商比較","angle":"時事賽事型","image_theme":"Pragmatic Play 2025 new slot review","status":"available","writing_style":"新機評測報告，1050字"},
-  {"id":42,"keyword":"2025年老虎機行業趨勢：Megaways、Cluster Pays展望","category":"廠商比較","angle":"時事賽事型","image_theme":"slot industry trends 2025 Megaways Cluster Pays","status":"available","writing_style":"行業趨勢分析，1000字"},
-  {"id":43,"keyword":"最新老虎機認證標準更新2025","category":"廠商比較","angle":"時事賽事型","image_theme":"slot certification standards update 2025","status":"available","writing_style":"行業動態，審計角度，1000字"},
-  {"id":44,"keyword":"香港最流行老虎機主題排行2025","category":"廠商比較","angle":"時事賽事型","image_theme":"popular slot themes hong kong 2025 ranking","status":"available","writing_style":"市場報告，1000字"},
-  {"id":45,"keyword":"加密貨幣存款對老虎機RTP有影響嗎？","category":"策略","angle":"時事賽事型","image_theme":"cryptocurrency deposit slot RTP effect 2025","status":"available","writing_style":"即時議題分析，1000字"},
-  {"id":46,"keyword":"老虎機中獎線是如何計算的？","category":"RTP機制","angle":"疑問句型","image_theme":"slot payline calculation win mechanism","status":"available","writing_style":"機制解釋，含圖例說明，950字"},
-  {"id":47,"keyword":"為什麼有些老虎機只在特定平台有較高RTP？","category":"RTP機制","angle":"疑問句型","image_theme":"slot higher RTP specific casino platform reason","status":"available","writing_style":"行業分析，技術角度，1000字"},
-  {"id":48,"keyword":"老虎機滾輪數量和RTP的關係","category":"RTP機制","angle":"疑問句型","image_theme":"slot reels number RTP relationship","status":"available","writing_style":"技術分析，含數學，950字"},
-  {"id":49,"keyword":"老虎機的House Edge如何計算？","category":"RTP機制","angle":"疑問句型","image_theme":"slot house edge calculation formula","status":"available","writing_style":"數學計算，1000字"},
-  {"id":50,"keyword":"老虎機Turbo Mode對RTP有影響嗎？","category":"Bonus機制","angle":"疑問句型","image_theme":"slot turbo mode RTP effect speed","status":"available","writing_style":"技術分析，950字"}
-]
+{
+  "keywords": [
+    {
+      "id": 1,
+      "keyword": "老虎機RTP是什麼？完整解釋",
+      "category": "RTP機制",
+      "angle": "疑問句型",
+      "image_theme": "slot machine RTP return to player explanation",
+      "status": "used",
+      "writing_style": "技術評測師語氣，含RTP計算範例，1000字",
+      "slug": "slot-rtp-guide",
+      "used_date": "2026-05-16"
+    },
+    {
+      "id": 2,
+      "keyword": "為什麼高RTP老虎機不保證贏錢？",
+      "category": "RTP機制",
+      "angle": "疑問句型",
+      "image_theme": "high RTP slot machine not guarantee win",
+      "status": "available",
+      "writing_style": "數學解釋，批判性，950字"
+    },
+    {
+      "id": 3,
+      "keyword": "如何查找老虎機的官方RTP數據？",
+      "category": "RTP機制",
+      "angle": "疑問句型",
+      "image_theme": "slot machine official RTP data lookup method",
+      "status": "available",
+      "writing_style": "實用指南，含查閱方法，950字"
+    },
+    {
+      "id": 4,
+      "keyword": "老虎機波動性（Volatility）是什麼意思？",
+      "category": "波動性",
+      "angle": "疑問句型",
+      "image_theme": "slot volatility high low variance explanation",
+      "status": "available",
+      "writing_style": "概念解釋，含高低波動比較，1000字"
+    },
+    {
+      "id": 5,
+      "keyword": "高波動 vs 低波動老虎機：哪個更適合我？",
+      "category": "波動性",
+      "angle": "疑問句型",
+      "image_theme": "high low volatility slot machine which better",
+      "status": "available",
+      "writing_style": "比較分析，含玩家類型建議，1050字"
+    },
+    {
+      "id": 6,
+      "keyword": "老虎機Bonus Buy功能值得買嗎？",
+      "category": "Bonus機制",
+      "angle": "疑問句型",
+      "image_theme": "slot bonus buy feature worth it analysis",
+      "status": "available",
+      "writing_style": "數學分析，含期望值計算，1000字"
+    },
+    {
+      "id": 7,
+      "keyword": "Free Spin觸發機率是多少？",
+      "category": "Bonus機制",
+      "angle": "疑問句型",
+      "image_theme": "slot free spin trigger probability statistics",
+      "status": "available",
+      "writing_style": "機率分析，含廠商數據比較，1000字"
+    },
+    {
+      "id": 8,
+      "keyword": "Scatter符號如何觸發獎勵？",
+      "category": "Bonus機制",
+      "angle": "疑問句型",
+      "image_theme": "slot scatter symbol bonus trigger mechanism",
+      "status": "available",
+      "writing_style": "機制解釋，含觸發條件說明，950字"
+    },
+    {
+      "id": 9,
+      "keyword": "Pragmatic Play老虎機RTP準確嗎？",
+      "category": "廠商比較",
+      "angle": "疑問句型",
+      "image_theme": "Pragmatic Play slot RTP accuracy audit",
+      "status": "available",
+      "writing_style": "廠商評測，審計角度，1050字"
+    },
+    {
+      "id": 10,
+      "keyword": "NetEnt和Pragmatic Play老虎機有什麼分別？",
+      "category": "廠商比較",
+      "angle": "疑問句型",
+      "image_theme": "NetEnt vs Pragmatic Play slot comparison",
+      "status": "available",
+      "writing_style": "廠商對比分析，含代表作品，1000字"
+    },
+    {
+      "id": 11,
+      "keyword": "老虎機RNG是什麼？能被預測嗎？",
+      "category": "RTP機制",
+      "angle": "疑問句型",
+      "image_theme": "slot RNG random number generator predictable",
+      "status": "available",
+      "writing_style": "技術機制解釋，引用認證標準，1000字"
+    },
+    {
+      "id": 12,
+      "keyword": "為什麼老虎機在Bonus後容易出現乾旱期？",
+      "category": "波動性",
+      "angle": "疑問句型",
+      "image_theme": "slot machine bonus drought session variance",
+      "status": "available",
+      "writing_style": "統計分析，含方差說明，950字"
+    },
+    {
+      "id": 13,
+      "keyword": "老虎機bankroll管理怎麼做？",
+      "category": "策略",
+      "angle": "疑問句型",
+      "image_theme": "slot machine bankroll management strategy",
+      "status": "available",
+      "writing_style": "實用策略，含資金分配建議，1050字"
+    },
+    {
+      "id": 14,
+      "keyword": "何時應該換台老虎機？",
+      "category": "策略",
+      "angle": "疑問句型",
+      "image_theme": "when to switch slot machine strategy",
+      "status": "available",
+      "writing_style": "策略分析，結合數學，1000字"
+    },
+    {
+      "id": 15,
+      "keyword": "老虎機最大獎金倍數（Max Win）有什麼意義？",
+      "category": "RTP機制",
+      "angle": "疑問句型",
+      "image_theme": "slot max win multiplier significance",
+      "status": "available",
+      "writing_style": "指標解讀，含計算，950字"
+    },
+    {
+      "id": 16,
+      "keyword": "老虎機免費旋轉和付費旋轉RTP一樣嗎？",
+      "category": "RTP機制",
+      "angle": "疑問句型",
+      "image_theme": "slot free spins bonus RTP same as base game",
+      "status": "available",
+      "writing_style": "技術比較，含數據，950字"
+    },
+    {
+      "id": 17,
+      "keyword": "如何計算一場遊戲的理論損失？",
+      "category": "RTP機制",
+      "angle": "疑問句型",
+      "image_theme": "slot theoretical loss calculation session",
+      "status": "available",
+      "writing_style": "數學計算教學，含公式，1000字"
+    },
+    {
+      "id": 18,
+      "keyword": "老虎機Hold功能是什麼？",
+      "category": "Bonus機制",
+      "angle": "疑問句型",
+      "image_theme": "slot hold feature mechanism explanation",
+      "status": "available",
+      "writing_style": "功能解析，950字"
+    },
+    {
+      "id": 19,
+      "keyword": "廠商認證標準如何保證老虎機公正性？",
+      "category": "廠商比較",
+      "angle": "疑問句型",
+      "image_theme": "slot certification standard GLI iTech Labs fairness",
+      "status": "available",
+      "writing_style": "認證機構介紹，審計角度，1050字"
+    },
+    {
+      "id": 20,
+      "keyword": "老虎機Jackpot的觸發機率是多少？",
+      "category": "RTP機制",
+      "angle": "疑問句型",
+      "image_theme": "progressive jackpot trigger probability statistics",
+      "status": "available",
+      "writing_style": "機率分析，含Jackpot種類說明，1000字"
+    },
+    {
+      "id": 21,
+      "keyword": "2025年最高RTP老虎機排名Top 20",
+      "category": "RTP機制",
+      "angle": "數據比較型",
+      "image_theme": "highest RTP slot machines ranking 2025",
+      "status": "available",
+      "writing_style": "排名報告，含RTP數據表，1100字"
+    },
+    {
+      "id": 22,
+      "keyword": "Pragmatic Play vs NetEnt vs Microgaming RTP比較",
+      "category": "廠商比較",
+      "angle": "數據比較型",
+      "image_theme": "slot provider RTP comparison Pragmatic NetEnt Microgaming",
+      "status": "available",
+      "writing_style": "三方廠商數據對比，含表格，1050字"
+    },
+    {
+      "id": 23,
+      "keyword": "高波動 vs 低波動老虎機長期回報數據",
+      "category": "波動性",
+      "angle": "數據比較型",
+      "image_theme": "high low volatility slot long term return data",
+      "status": "available",
+      "writing_style": "模擬數據報告，1050字"
+    },
+    {
+      "id": 24,
+      "keyword": "老虎機Bonus Buy vs 自然觸發：期望值比較",
+      "category": "Bonus機制",
+      "angle": "數據比較型",
+      "image_theme": "slot bonus buy natural trigger EV comparison",
+      "status": "available",
+      "writing_style": "量化比較，含計算，1050字"
+    },
+    {
+      "id": 25,
+      "keyword": "最受香港玩家歡迎的老虎機廠商排名",
+      "category": "廠商比較",
+      "angle": "數據比較型",
+      "image_theme": "hong kong popular slot provider ranking",
+      "status": "available",
+      "writing_style": "市場數據報告，1000字"
+    },
+    {
+      "id": 26,
+      "keyword": "老虎機免費試玩 vs 真錢：RTP有差嗎？",
+      "category": "RTP機制",
+      "angle": "數據比較型",
+      "image_theme": "slot demo vs real money RTP comparison",
+      "status": "available",
+      "writing_style": "技術比較，含廠商政策，1000字"
+    },
+    {
+      "id": 27,
+      "keyword": "不同下注金額對老虎機RTP的影響",
+      "category": "策略",
+      "angle": "數據比較型",
+      "image_theme": "slot bet size effect on RTP volatility",
+      "status": "available",
+      "writing_style": "數據分析，含廠商規則，1000字"
+    },
+    {
+      "id": 28,
+      "keyword": "Megaways機制的RTP和波動性分析",
+      "category": "Bonus機制",
+      "angle": "數據比較型",
+      "image_theme": "Megaways slot mechanism RTP volatility analysis",
+      "status": "available",
+      "writing_style": "機制深度分析，1050字"
+    },
+    {
+      "id": 29,
+      "keyword": "老虎機最佳下注策略：各廠商建議比較",
+      "category": "策略",
+      "angle": "數據比較型",
+      "image_theme": "slot optimal bet strategy by provider comparison",
+      "status": "available",
+      "writing_style": "策略對比表格，1000字"
+    },
+    {
+      "id": 30,
+      "keyword": "老虎機平台手續費對實際RTP的影響",
+      "category": "RTP機制",
+      "angle": "數據比較型",
+      "image_theme": "slot platform fee effect actual RTP calculation",
+      "status": "available",
+      "writing_style": "量化分析，1000字"
+    },
+    {
+      "id": 31,
+      "keyword": "老虎機RTP完整新手教學指南",
+      "category": "RTP機制",
+      "angle": "教學攻略型",
+      "image_theme": "slot RTP complete beginner guide tutorial",
+      "status": "available",
+      "writing_style": "從零開始，含計算範例，1100字"
+    },
+    {
+      "id": 32,
+      "keyword": "選老虎機五個必看指標",
+      "category": "RTP機制",
+      "angle": "教學攻略型",
+      "image_theme": "slot selection five key indicators checklist",
+      "status": "available",
+      "writing_style": "清單格式，實用指南，1000字"
+    },
+    {
+      "id": 33,
+      "keyword": "老虎機資金管理完整攻略",
+      "category": "策略",
+      "angle": "教學攻略型",
+      "image_theme": "slot bankroll management complete guide",
+      "status": "available",
+      "writing_style": "系統性教學，1050字"
+    },
+    {
+      "id": 34,
+      "keyword": "如何利用免費試玩最大化學習效果",
+      "category": "策略",
+      "angle": "教學攻略型",
+      "image_theme": "slot demo mode learning maximize tips",
+      "status": "available",
+      "writing_style": "實用策略，1000字"
+    },
+    {
+      "id": 35,
+      "keyword": "老虎機術語完整詞彙表",
+      "category": "RTP機制",
+      "angle": "教學攻略型",
+      "image_theme": "slot machine terminology glossary complete",
+      "status": "available",
+      "writing_style": "參考指南格式，1050字"
+    },
+    {
+      "id": 36,
+      "keyword": "如何閱讀老虎機遊戲規則說明頁",
+      "category": "RTP機制",
+      "angle": "教學攻略型",
+      "image_theme": "slot paytable rules reading guide",
+      "status": "available",
+      "writing_style": "步驟教學，950字"
+    },
+    {
+      "id": 37,
+      "keyword": "Bonus Round機制分類與比較教學",
+      "category": "Bonus機制",
+      "angle": "教學攻略型",
+      "image_theme": "slot bonus round types classification guide",
+      "status": "available",
+      "writing_style": "分類教學，含範例，1000字"
+    },
+    {
+      "id": 38,
+      "keyword": "老虎機負責任遊戲指南",
+      "category": "策略",
+      "angle": "教學攻略型",
+      "image_theme": "responsible gambling slot machine guide",
+      "status": "available",
+      "writing_style": "教育性，含自我評估，900字"
+    },
+    {
+      "id": 39,
+      "keyword": "如何識別優質老虎機平台的五個標準",
+      "category": "廠商比較",
+      "angle": "教學攻略型",
+      "image_theme": "quality slot platform identification criteria",
+      "status": "available",
+      "writing_style": "評估框架，1000字"
+    },
+    {
+      "id": 40,
+      "keyword": "老虎機波動性計算方法：從數據到判斷",
+      "category": "波動性",
+      "angle": "教學攻略型",
+      "image_theme": "slot volatility calculation method data",
+      "status": "available",
+      "writing_style": "技術教學，含計算，1050字"
+    },
+    {
+      "id": 41,
+      "keyword": "Pragmatic Play 2025年新機評測",
+      "category": "廠商比較",
+      "angle": "時事賽事型",
+      "image_theme": "Pragmatic Play 2025 new slot review",
+      "status": "available",
+      "writing_style": "新機評測報告，1050字"
+    },
+    {
+      "id": 42,
+      "keyword": "2025年老虎機行業趨勢：Megaways、Cluster Pays展望",
+      "category": "廠商比較",
+      "angle": "時事賽事型",
+      "image_theme": "slot industry trends 2025 Megaways Cluster Pays",
+      "status": "available",
+      "writing_style": "行業趨勢分析，1000字"
+    },
+    {
+      "id": 43,
+      "keyword": "最新老虎機認證標準更新2025",
+      "category": "廠商比較",
+      "angle": "時事賽事型",
+      "image_theme": "slot certification standards update 2025",
+      "status": "available",
+      "writing_style": "行業動態，審計角度，1000字"
+    },
+    {
+      "id": 44,
+      "keyword": "香港最流行老虎機主題排行2025",
+      "category": "廠商比較",
+      "angle": "時事賽事型",
+      "image_theme": "popular slot themes hong kong 2025 ranking",
+      "status": "available",
+      "writing_style": "市場報告，1000字"
+    },
+    {
+      "id": 45,
+      "keyword": "加密貨幣存款對老虎機RTP有影響嗎？",
+      "category": "策略",
+      "angle": "時事賽事型",
+      "image_theme": "cryptocurrency deposit slot RTP effect 2025",
+      "status": "available",
+      "writing_style": "即時議題分析，1000字"
+    },
+    {
+      "id": 46,
+      "keyword": "老虎機中獎線是如何計算的？",
+      "category": "RTP機制",
+      "angle": "疑問句型",
+      "image_theme": "slot payline calculation win mechanism",
+      "status": "available",
+      "writing_style": "機制解釋，含圖例說明，950字"
+    },
+    {
+      "id": 47,
+      "keyword": "為什麼有些老虎機只在特定平台有較高RTP？",
+      "category": "RTP機制",
+      "angle": "疑問句型",
+      "image_theme": "slot higher RTP specific casino platform reason",
+      "status": "available",
+      "writing_style": "行業分析，技術角度，1000字"
+    },
+    {
+      "id": 48,
+      "keyword": "老虎機滾輪數量和RTP的關係",
+      "category": "RTP機制",
+      "angle": "疑問句型",
+      "image_theme": "slot reels number RTP relationship",
+      "status": "available",
+      "writing_style": "技術分析，含數學，950字"
+    },
+    {
+      "id": 49,
+      "keyword": "老虎機的House Edge如何計算？",
+      "category": "RTP機制",
+      "angle": "疑問句型",
+      "image_theme": "slot house edge calculation formula",
+      "status": "available",
+      "writing_style": "數學計算，1000字"
+    },
+    {
+      "id": 50,
+      "keyword": "老虎機Turbo Mode對RTP有影響嗎？",
+      "category": "Bonus機制",
+      "angle": "疑問句型",
+      "image_theme": "slot turbo mode RTP effect speed",
+      "status": "available",
+      "writing_style": "技術分析，950字"
+    }
+  ]
+}
