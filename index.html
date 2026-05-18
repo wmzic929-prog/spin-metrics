@@ -206,7 +206,7 @@
               <span class="tag tag-${(i%5)+1}">${a.category||'攻略'}</span>
             </div>
             <a href="/blog/${a.slug}" class="card-c-title">${a.title}</a>
-            <p class="card-c-excerpt">${a.metaDesc||''}</p>
+            <p class="card-c-excerpt">${a.excerpt || a.metaDesc || ''}</p>
             <div style="font-size:12px;color:var(--clr-text-muted);">${a.date||''}</div>
           </div>
         </div>`).join('');
