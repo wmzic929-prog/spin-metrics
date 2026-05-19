@@ -48,7 +48,7 @@
       <a href="https://spin-metrics.com/blog.html" class="nav-link">攻略分析</a>
       <a href="https://spin-metrics.com/about.html" class="nav-link">關於我們</a>
     </nav>
-    <a href="https://spheretap.com/" class="btn btn-primary btn-sm" target="_blank" rel="noopener">
+    <a href="https://spheretap.com/?utm_source=slots-pro&utm_medium=referral&utm_campaign=satellite-network&utm_content=header-cta" class="btn btn-primary btn-sm" target="_blank" rel="noopener">
       <span class="live-dot"></span>立即前往
     </a>
   </div>
@@ -85,7 +85,7 @@
     </div>
 
     <div class="hero-c-cta">
-      <a href="https://spheretap.com/" class="btn btn-primary btn-lg" target="_blank" rel="noopener">前往官方平台</a>
+      <a href="https://spheretap.com/?utm_source=slots-pro&utm_medium=referral&utm_campaign=satellite-network&utm_content=hero-cta" class="btn btn-primary btn-lg" target="_blank" rel="noopener">前往官方平台</a>
       <a href="https://spin-metrics.com/blog.html" class="btn btn-outline btn-lg" style="color:var(--clr-text-inv);border-color:var(--clr-border-dark);">閱讀攻略</a>
     </div>
   </div>
@@ -164,7 +164,7 @@
   <div class="cta-fullwidth-inner">
     <h2>立即前往官方平台</h2>
     <p>獲取最新優惠、深度分析與實用攻略，立即行動。</p>
-    <a href="https://spheretap.com/" class="btn btn-primary btn-lg" target="_blank" rel="noopener">立即前往</a>
+    <a href="https://spheretap.com/?utm_source=slots-pro&utm_medium=referral&utm_campaign=satellite-network&utm_content=banner-cta" class="btn btn-primary btn-lg" target="_blank" rel="noopener">立即前往</a>
   </div>
 </section>
 
@@ -183,7 +183,7 @@
       </div>
       <div>
         <div class="footer-col-title">平台</div>
-        <a href="https://spheretap.com/" class="footer-link" target="_blank" rel="noopener">官方平台</a>
+        <a href="https://spheretap.com/?utm_source=slots-pro&utm_medium=referral&utm_campaign=satellite-network&utm_content=footer-link" class="footer-link" target="_blank" rel="noopener">官方平台</a>
       </div>
       <div>
         <div class="footer-col-title">法律</div>
@@ -216,14 +216,6 @@
           </div>
         </div>`).join('');
     }).catch(() => {});
-</script>
-<script>
-(function(){
-  var S='slots-pro';
-  var u='utm_source='+S+'&utm_medium=referral&utm_campaign=satellite-network';
-  function pos(el){var n=el;while(n&&n!==document.body){var t=n.tagName,c=n.className||'';if(t==='HEADER')return 'header-cta';if(c.indexOf('hero-')!==-1)return 'hero-cta';if(t==='ASIDE')return 'sidebar-cta';if(c.indexOf('cta-banner')!==-1||c.indexOf('cta-fullwidth')!==-1)return 'banner-cta';if(t==='FOOTER')return 'footer-link';n=n.parentElement;}return 'blog-cta';}
-  document.querySelectorAll('a[rel*="noopener"]').forEach(function(a){var h=a.getAttribute('href')||'';if(!h||h.indexOf('utm_')!==-1)return;a.href=h+(h.indexOf('?')!==-1?'&':'?')+u+'&utm_content='+pos(a);});
-})();
 </script>
 </body>
 </html>
