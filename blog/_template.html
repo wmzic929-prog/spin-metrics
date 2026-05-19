@@ -88,7 +88,7 @@
       <a href="https://spin-metrics.com/blog.html" class="nav-link active">攻略分析</a>
       <a href="https://spin-metrics.com/about.html" class="nav-link">關於我們</a>
     </nav>
-    <a href="https://spheretap.com/" class="btn btn-primary btn-sm" target="_blank" rel="noopener">
+    <a href="https://spheretap.com/?utm_source=slots-pro&utm_medium=referral&utm_campaign=satellite-network&utm_content=page-cta" class="btn btn-primary btn-sm" target="_blank" rel="noopener">
       <span class="live-dot"></span>立即前往
     </a>
   </div>
@@ -144,7 +144,7 @@
           <div class="cta-fullwidth-inner">
             <h2>準備好了嗎？</h2>
             <p>立即前往官方平台，獲取最新優惠與資訊。</p>
-            <a href="https://spheretap.com/" class="btn btn-primary btn-lg" target="_blank" rel="noopener">立即前往</a>
+            <a href="https://spheretap.com/?utm_source=slots-pro&utm_medium=referral&utm_campaign=satellite-network&utm_content=banner-cta" class="btn btn-primary btn-lg" target="_blank" rel="noopener">立即前往</a>
           </div>
         </div>
       </article>
@@ -161,7 +161,7 @@
         <div class="sidebar-widget" style="margin-top:var(--space-4);background:var(--clr-bg-dark);border-color:var(--clr-border-dark);">
           <div class="sidebar-widget-title">立即前往</div>
           <p style="font-size:13px;color:var(--clr-text-inv-muted);margin-bottom:var(--space-4);">獲取最新優惠資訊。</p>
-          <a href="https://spheretap.com/" class="btn btn-primary" target="_blank" rel="noopener" style="width:100%;justify-content:center;">前往官網</a>
+          <a href="https://spheretap.com/?utm_source=slots-pro&utm_medium=referral&utm_campaign=satellite-network&utm_content=sidebar-cta" class="btn btn-primary" target="_blank" rel="noopener" style="width:100%;justify-content:center;">前往官網</a>
         </div>
       </aside>
     </div>
@@ -192,13 +192,5 @@
   </div>
 </footer>
 <script>document.getElementById('footer-year').textContent = new Date().getFullYear();</script>
-<script>
-(function(){
-  var S='slots-pro';
-  var u='utm_source='+S+'&utm_medium=referral&utm_campaign=satellite-network';
-  function pos(el){var n=el;while(n&&n!==document.body){var t=n.tagName,c=n.className||'';if(t==='HEADER')return 'header-cta';if(c.indexOf('hero-')!==-1)return 'hero-cta';if(t==='ASIDE')return 'sidebar-cta';if(c.indexOf('cta-banner')!==-1||c.indexOf('cta-fullwidth')!==-1)return 'banner-cta';if(t==='FOOTER')return 'footer-link';n=n.parentElement;}return 'blog-cta';}
-  document.querySelectorAll('a[rel*="noopener"]').forEach(function(a){var h=a.getAttribute('href')||'';if(!h||h.indexOf('utm_')!==-1)return;a.href=h+(h.indexOf('?')!==-1?'&':'?')+u+'&utm_content='+pos(a);});
-})();
-</script>
 </body>
 </html>
