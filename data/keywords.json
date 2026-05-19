@@ -39,8 +39,10 @@
       "category": "波動性",
       "angle": "疑問句型",
       "image_theme": "slot volatility high low variance explanation",
-      "status": "available",
-      "writing_style": "概念解釋，含高低波動比較，1000字"
+      "status": "used",
+      "writing_style": "概念解釋，含高低波動比較，1000字",
+      "slug": "article",
+      "used_date": "2026-05-19"
     },
     {
       "id": 5,
