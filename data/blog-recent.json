@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "article",
+      "title": "article",
+      "category": "General",
+      "date": "2026-05-19",
+      "excerpt": "```json",
+      "imageUrl": "https://pixabay.com/get/g40cc7cb4004e6426f8a1491c51dd51d7066a15d8c4ddb55ecc1d3e47d5091540ecfe43b36c6bdb3538b2b926f33a6849472a3ddda6ca906b47e95f3b71b67501_640.jpg"
+    },
+    {
       "slug": "how-to-find-slot-rtp-data",
       "title": "如何查找老虎機嘅官方RTP數據？2026全面查詢指南",
       "category": "RTP機制",
@@ -15,14 +23,6 @@
       "date": "2026-05-16",
       "excerpt": "我試過特登揀RTP最高嘅老虎機，但係一樣輸到清光——原來高RTP唔係保證，係個好多人誤解嘅統計概念。",
       "imageUrl": "https://pixabay.com/get/g84375bfecebf5fb2c671b3749c842040c1b6140efd8e7562135fae6a012db865546179e1cf78f71a72fb91711cb048e20b567ef1b391bd69a57040ef3a48d78c_640.jpg"
-    },
-    {
-      "slug": "slot-rtp-guide",
-      "title": "老虎機RTP係咩意思？完整解析回報率機制｜香港玩家指南",
-      "category": "RTP機制",
-      "date": "2026-05-16",
-      "excerpt": "96%同94%睇落差唔多，但長期落注後回報差距可以去到數千港元——RTP就係決定你長期輸贏嘅隱形關鍵數字。",
-      "imageUrl": "https://pixabay.com/get/g22d82d2e714c42eb98ea53621e97960b9b94f72b184664483f1d0dad4a400385aad2d5519f03afe7ae4c4d0eb1ca7070785b1625f7200e9d0dc9f87dfc6ac173_640.jpg"
     }
   ]
 }
